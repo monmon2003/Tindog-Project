@@ -104,8 +104,8 @@ p{
     padding:100px 100px;
 }
 @media (max-width:1028px){
-    #title{
-        text-align:center;
+     #title .big-heading{
+         text-align:center;
     }
     .iphone{
         position:static;
